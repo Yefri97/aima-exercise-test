@@ -3,28 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/post/first-post/</loc>
+    <loc>https://yefri97.github.io/aima-exercise-test/post/first-post/</loc>
     <lastmod>2018-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://yefri97.github.io/aima-exercise-test/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/post/</loc>
+    <loc>https://yefri97.github.io/aima-exercise-test/post/</loc>
     <lastmod>2018-03-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://yefri97.github.io/aima-exercise-test/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://yefri97.github.io/aima-exercise-test/</loc>
     <lastmod>2018-03-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

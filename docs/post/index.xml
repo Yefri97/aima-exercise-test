@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on aima exercise</title>
-    <link>https://example.org/post/</link>
+    <link>https://yefri97.github.io/aima-exercise-test/post/</link>
     <description>Recent content in Posts on aima exercise</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Mar 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yefri97.github.io/aima-exercise-test/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>https://example.org/post/first-post/</link>
+      <link>https://yefri97.github.io/aima-exercise-test/post/first-post/</link>
       <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/post/first-post/</guid>
+      <guid>https://yefri97.github.io/aima-exercise-test/post/first-post/</guid>
       <description>esto es una prueba $$ i == j $$</description>
     </item>
     
