@@ -1,9 +1,11 @@
 ---
+date: "2018-03-05"
 title: "Second Post"
-date: 2018-03-05T10:26:41-05:00
-draft: true
 ---
 
 Oye esto ya tiene forma :D
 
 $$ x * y $$
+
+Hola by: Catalina
+This is a proof for the Google Summer of Code for Peter Norvig with <3
