@@ -7,7 +7,6 @@ disqusShortname = "aima-exercise"
 googleAnalytics = ""
 # Number of posts per page
 paginate = 10
-publishDir = "docs"
 
 [params]
 	title = "Steam"

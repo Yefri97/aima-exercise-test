@@ -9,7 +9,7 @@ hugo
 cd public
 git init
 git checkout -b gh-pages
-git remote add origin git@github.com:yefri97/aima-exercise-test.git
+git remote add origin https://github.com/Yefri97/aima-exercise-test.git
 git add -A
 git commit -m "deploy"
 git push -f origin gh-pages
