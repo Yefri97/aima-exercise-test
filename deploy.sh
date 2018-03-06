@@ -16,3 +16,4 @@ git push -f origin gh-pages
 cd ..
 
 git checkout master
+git branch -d gh-pages
