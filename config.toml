@@ -1,4 +1,4 @@
-baseurl = "https://yefri97.github.io/aima-exercise-test/"
+baseurl = "https://yefri97.github.io/"
 languageCode = "en-us"
 title = "Exercises of the AIMA book"
 theme = "hugo-xmin"
