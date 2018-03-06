@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapter 1 Introduction on Exercises of the AIMA book</title>
+    <link>https://yefri97.github.io/aima-exercise-test/chapters/chapter-1-introduction/</link>
+    <description>Recent content in Chapter 1 Introduction on Exercises of the AIMA book</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://yefri97.github.io/aima-exercise-test/chapters/chapter-1-introduction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exercise 18</title>
+      <link>https://yefri97.github.io/aima-exercise-test/exercise1-18/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://yefri97.github.io/aima-exercise-test/exercise1-18/</guid>
+      <description>Statement Examine the AI literature to discover whether the following tasks can currently be solved by computers:
+ Playing a decent game of table tennis (Ping-Pong). Driving in the center of Cairo, Egypt. Driving in Victorville, California. Buying a week’s worth of groceries at the market. Buying a week’s worth of groceries on the Web. Playing a decent game of bridge at a competitive level. Discovering and proving new mathematical theorems.</description>
+    </item>
+    
+  </channel>
+</rss>

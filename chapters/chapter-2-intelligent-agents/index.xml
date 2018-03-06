@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapter 2 Intelligent Agents on Exercises of the AIMA book</title>
+    <link>https://yefri97.github.io/aima-exercise-test/chapters/chapter-2-intelligent-agents/</link>
+    <description>Recent content in Chapter 2 Intelligent Agents on Exercises of the AIMA book</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://yefri97.github.io/aima-exercise-test/chapters/chapter-2-intelligent-agents/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exercise 4</title>
+      <link>https://yefri97.github.io/aima-exercise-test/exercise2-4/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://yefri97.github.io/aima-exercise-test/exercise2-4/</guid>
+      <description>Statement For each of the following assertions, say whether it is true or false and support your answer with examples or counterexamples where appropriate.
+ An agent that senses only partial information about the state cannot be perfectly rational.
+ There exist task environments in which no pure reflex agent can behave rationally.
+ There exists a task environment in which every agent is rational.
+ The input to an agent program is the same as the input to the agent function.</description>
+    </item>
+    
+  </channel>
+</rss>

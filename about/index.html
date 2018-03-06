@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>About AIMA project | Exercises of the AIMA book</title>
+    <link rel="stylesheet" href="/aima-exercise-test/css/style.css" />
+    <link rel="stylesheet" href="/aima-exercise-test/css/fonts.css" />
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/aima-exercise-test">Home</a></li>
+      
+      <li><a href="/aima-exercise-test/about/">About</a></li>
+      
+      <li><a href="/aima-exercise-test/chapters/">Exercises</a></li>
+      
+      <li><a href="/aima-exercise-test/categories/">Categories</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">About AIMA project</span></h1>
+
+<h4 class="author">Author: Stuart Russell - Peter Norvig</h4>
+</div>
+
+<main>
+
+
+<h2 id="how-to-contribute">How to contribute:</h2>
+
+<p>To contribute you only have to create a file with extension <code>.md</code> in
+<code>/ content / exercises</code>, it is very important that the file contains the following information
+at the beginning (as an example, put the appropriate values):</p>
+
+<pre><code>---
+title: Exercise 9
+date: '2017-03-06'
+author: Yeferson Gaitan
+chapters: Chapter 4 Beyond Classical Search
+categories:
+  - easy
+---
+
+### Statement
+
+Your amazing exercise here :D
+
+</code></pre>
+
+<h2 id="publications">Publications:</h2>
+
+<p>All changes will be made through pull request. The person in charge of
+mixing the pull request will be responsible for deploying the new content.</p>
+
+<h2 id="configuration-to-do-local-tests">Configuration to do local tests:</h2>
+
+<ul>
+<li><a href="https://gohugo.io/overview/installing/">Install Hugo</a></li>
+<li>Clone the theme:</li>
+</ul>
+
+<pre><code>mkdir themes
+cd themes
+git clone https://github.com/yihui/hugo-xmin.git
+cd ..
+</code></pre>
+
+<p>Then it should be enough to run the following:</p>
+
+<pre><code>hugo serve
+</code></pre>
+
+<p>If everything worked well. You are ready for the deploy.</p>
+
+<h2 id="deploy">Deploy:</h2>
+
+<p>From the console:</p>
+
+<pre><code>sh deploy.sh
+</code></pre>
+
+</main>
+
+  <footer>
+  <script src="//yihui.name/js/math-code.js"></script>
+<script async src="//cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$']],
+      displayMath: [['$$','$$']],
+      processEscapes: true,
+      processEnvironments: true,
+      skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+      TeX: { equationNumbers: { autoNumber: "AMS" },
+           extensions: ["AMSmath.js", "AMSsymbols.js"] }
+    }
+  });
+</script>
+
+<script async src="//yihui.name/js/center-img.js"></script>
+
+  
+  <hr/>
+  &copy; <a href="https://github.com/Yefri97">Yefri Gaitan</a> 2018 | <a href="https://github.com/Yefri97/aima-exercise-test">Github</a> | <a href="#">Twitter</a>
+  
+  </footer>
+  </body>
+</html>
+

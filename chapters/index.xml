@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapters on Exercises of the AIMA book</title>
+    <link>https://yefri97.github.io/aima-exercise-test/chapters/</link>
+    <description>Recent content in Chapters on Exercises of the AIMA book</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://yefri97.github.io/aima-exercise-test/chapters/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chapter 1 Introduction</title>
+      <link>https://yefri97.github.io/aima-exercise-test/chapters/chapter-1-introduction/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://yefri97.github.io/aima-exercise-test/chapters/chapter-1-introduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter 2 Intelligent Agents</title>
+      <link>https://yefri97.github.io/aima-exercise-test/chapters/chapter-2-intelligent-agents/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://yefri97.github.io/aima-exercise-test/chapters/chapter-2-intelligent-agents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter 3 Solving Problems By Searching</title>
+      <link>https://yefri97.github.io/aima-exercise-test/chapters/chapter-3-solving-problems-by-searching/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://yefri97.github.io/aima-exercise-test/chapters/chapter-3-solving-problems-by-searching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter 4 Beyond Classical Search</title>
+      <link>https://yefri97.github.io/aima-exercise-test/chapters/chapter-4-beyond-classical-search/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://yefri97.github.io/aima-exercise-test/chapters/chapter-4-beyond-classical-search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter 5 Adversarial Search</title>
+      <link>https://yefri97.github.io/aima-exercise-test/chapters/chapter-5-adversarial-search/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://yefri97.github.io/aima-exercise-test/chapters/chapter-5-adversarial-search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

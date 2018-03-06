@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapter 3 Solving Problems By Searching on Exercises of the AIMA book</title>
+    <link>https://yefri97.github.io/aima-exercise-test/chapters/chapter-3-solving-problems-by-searching/</link>
+    <description>Recent content in Chapter 3 Solving Problems By Searching on Exercises of the AIMA book</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://yefri97.github.io/aima-exercise-test/chapters/chapter-3-solving-problems-by-searching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exercise 9</title>
+      <link>https://yefri97.github.io/aima-exercise-test/exercise3-9/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://yefri97.github.io/aima-exercise-test/exercise3-9/</guid>
+      <description>Statement Consider the problem of finding the shortest path between two points on a plane that has convex polygonal obstacles as shown in the figure. This is an idealization of the problem that a robot has to solve to navigate in a crowded environment.
+
+ Suppose the state space consists of all positions $(x,y)$ in the plane. How many states are there? How many paths are there to the goal?</description>
+    </item>
+    
+  </channel>
+</rss>

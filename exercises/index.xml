@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exercises on Exercises of the AIMA book</title>
+    <link>https://yefri97.github.io/aima-exercise-test/exercises/</link>
+    <description>Recent content in Exercises on Exercises of the AIMA book</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://yefri97.github.io/aima-exercise-test/exercises/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exercise 1</title>
+      <link>https://yefri97.github.io/aima-exercise-test/exercise4-1/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://yefri97.github.io/aima-exercise-test/exercise4-1/</guid>
+      <description>Statement Give the name of the algorithm that results from each of the following special cases:
+ Local beam search with $k = 1$.
+ Local beam search with one initial state and no limit on the number of states retained.
+ Simulated annealing with $T = 0$ at all times (and omitting the termination test).
+ Simulated annealing with $T=\infty$ at all times.
+ Genetic algorithm with population size $N = 1$.</description>
+    </item>
+    
+    <item>
+      <title>Exercise 18</title>
+      <link>https://yefri97.github.io/aima-exercise-test/exercise1-18/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://yefri97.github.io/aima-exercise-test/exercise1-18/</guid>
+      <description>Statement Examine the AI literature to discover whether the following tasks can currently be solved by computers:
+ Playing a decent game of table tennis (Ping-Pong). Driving in the center of Cairo, Egypt. Driving in Victorville, California. Buying a week’s worth of groceries at the market. Buying a week’s worth of groceries on the Web. Playing a decent game of bridge at a competitive level. Discovering and proving new mathematical theorems.</description>
+    </item>
+    
+    <item>
+      <title>Exercise 4</title>
+      <link>https://yefri97.github.io/aima-exercise-test/exercise2-4/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://yefri97.github.io/aima-exercise-test/exercise2-4/</guid>
+      <description>Statement For each of the following assertions, say whether it is true or false and support your answer with examples or counterexamples where appropriate.
+ An agent that senses only partial information about the state cannot be perfectly rational.
+ There exist task environments in which no pure reflex agent can behave rationally.
+ There exists a task environment in which every agent is rational.
+ The input to an agent program is the same as the input to the agent function.</description>
+    </item>
+    
+    <item>
+      <title>Exercise 9</title>
+      <link>https://yefri97.github.io/aima-exercise-test/exercise3-9/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://yefri97.github.io/aima-exercise-test/exercise3-9/</guid>
+      <description>Statement Consider the problem of finding the shortest path between two points on a plane that has convex polygonal obstacles as shown in the figure. This is an idealization of the problem that a robot has to solve to navigate in a crowded environment.
+
+ Suppose the state space consists of all positions $(x,y)$ in the plane. How many states are there? How many paths are there to the goal?</description>
+    </item>
+    
+    <item>
+      <title>Exercise 9</title>
+      <link>https://yefri97.github.io/aima-exercise-test/exercise5-9/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://yefri97.github.io/aima-exercise-test/exercise5-9/</guid>
+      <description>Statement This problem exercises the basic concepts of game playing, using tic-tac-toe (noughts and crosses) as an example. We define $X_n$ as the number of rows, columns, or diagonals with exactly $n$ $X$’s and no $O$’s. Similarly, $O_n$ is the number of rows, columns, or diagonals with just $n$ $O$’s. The utility function assigns $+1$ to any position with $X_3=1$ and $-1$ to any position with $O_3 = 1$. All other terminal positions have utility 0.</description>
+    </item>
+    
+  </channel>
+</rss>

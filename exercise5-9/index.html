@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Exercise 9 | Exercises of the AIMA book</title>
+    <link rel="stylesheet" href="/aima-exercise-test/css/style.css" />
+    <link rel="stylesheet" href="/aima-exercise-test/css/fonts.css" />
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/aima-exercise-test">Home</a></li>
+      
+      <li><a href="/aima-exercise-test/about/">About</a></li>
+      
+      <li><a href="/aima-exercise-test/chapters/">Exercises</a></li>
+      
+      <li><a href="/aima-exercise-test/categories/">Categories</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">Exercise 9</span></h1>
+<h4 class="chapters">Chapter 5 Adversarial Search</h4>
+<h4 class="author">Author: AIMA book</h4>
+</div>
+
+<main>
+
+
+<h3 id="statement">Statement</h3>
+
+<p>This problem exercises the basic concepts of game playing, using
+tic-tac-toe (noughts and crosses) as an example. We define
+$X_n$ as the number of rows, columns, or diagonals with exactly $n$
+$X$’s and no $O$’s. Similarly, $O_n$ is the number of rows, columns, or
+diagonals with just $n$ $O$’s. The utility function assigns $+1$ to any
+position with $X_3=1$ and $-1$ to any position with $O_3 = 1$. All other
+terminal positions have utility 0. For nonterminal positions, we use a
+linear evaluation function defined as ${Eval}(s) = 3X_2(s) + X_1(s) -
+(3O_2(s) + O_1(s))$.</p>
+
+<ol>
+<li><p>Approximately how many possible games of tic-tac-toe are there?</p></li>
+
+<li><p>Show the whole game tree starting from an empty board down to depth
+2 (i.e., one $X$ and one $O$ on the board), taking symmetry
+into account.</p></li>
+
+<li><p>Mark on your tree the evaluations of all the positions at depth 2.</p></li>
+
+<li><p>Using the minimax algorithm, mark on your tree the backed-up values
+for the positions at depths 1 and 0, and use those values to choose
+the best starting move.</p></li>
+
+<li><p>Circle the nodes at depth 2 that would <em>not</em> be
+evaluated if alpha–beta pruning were applied, assuming the nodes are
+generated in the optimal order for alpha–beta pruning.</p></li>
+</ol>
+
+</main>
+
+  <footer>
+  <script src="//yihui.name/js/math-code.js"></script>
+<script async src="//cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$']],
+      displayMath: [['$$','$$']],
+      processEscapes: true,
+      processEnvironments: true,
+      skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+      TeX: { equationNumbers: { autoNumber: "AMS" },
+           extensions: ["AMSmath.js", "AMSsymbols.js"] }
+    }
+  });
+</script>
+
+<script async src="//yihui.name/js/center-img.js"></script>
+
+  
+  <hr/>
+  &copy; <a href="https://github.com/Yefri97">Yefri Gaitan</a> 2018 | <a href="https://github.com/Yefri97/aima-exercise-test">Github</a> | <a href="#">Twitter</a>
+  
+  </footer>
+  </body>
+</html>
+
