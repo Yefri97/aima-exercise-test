@@ -3,7 +3,7 @@ title: Exercise 1
 date: '2017-03-05'
 author: AIMA book
 chapters: Chapter 4 Beyond Classical Search
-tags:
+categories:
   - medium
 ---
 

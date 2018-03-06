@@ -3,7 +3,7 @@ title: Exercise 9
 date: '2017-03-05'
 author: AIMA book
 chapters: Chapter 5 Adversarial Search
-tags:
+categories:
   - medium
 ---
 

@@ -3,7 +3,7 @@ title: Exercise 9
 date: '2017-03-05'
 author: AIMA book
 chapters: Chapter 3 Solving Problems By Searching
-tags:
+categories:
   - easy
 ---
 

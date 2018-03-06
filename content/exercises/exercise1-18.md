@@ -3,7 +3,7 @@ title: Exercise 18
 date: '2017-03-05'
 author: AIMA book
 chapters: Chapter 1 Introduction
-tags:
+categories:
   - easy
 ---
 

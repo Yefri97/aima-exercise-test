@@ -3,7 +3,7 @@ title: Exercise 4
 date: '2017-03-05'
 author: AIMA book
 chapters: Chapter 2 Intelligent Agents
-tags:
+categories:
   - easy
 ---
 
